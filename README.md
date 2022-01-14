@@ -1,4 +1,4 @@
-#Portfolio
+## Portfolio
 
 This is my first project. This small portfolio was created using HTML / CSS / JavaScript
 
